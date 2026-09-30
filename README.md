@@ -1,4 +1,4 @@
-## Methodology Pseudocode
+## Pipeline Pseudocode
 
 ```text
 
